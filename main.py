@@ -17,6 +17,7 @@ if __name__ == '__main__':
     print_hi('PyCharm 44')
     print_hi('PyCharm 55')
     print_hi('+PyCharm 55')
+    print_hi('+PyCharm 66')
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
